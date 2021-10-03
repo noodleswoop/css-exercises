@@ -1,0 +1,25 @@
+/*foundations exercise 2 css*/
+
+/* odd numbered elements */
+p {
+    background-color: #EBB3A6;
+    font-family: "Verdana", sans-serif;
+}
+
+/* second element (ID) */
+#numtwo {
+    color: rgb(40, 52, 205); /* blue */
+    font-size: 36px;
+}
+
+/* third element only */
+.numthree {
+    font-size: 24px
+}
+
+/* fourth element */
+#numfour {
+    background-color: #95E18B;
+    font-size: 24px;
+    font-weight: bold;
+}
