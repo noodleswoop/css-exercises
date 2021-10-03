@@ -1,0 +1,10 @@
+/* external css for exercise 01 */
+
+/* type selector */
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
