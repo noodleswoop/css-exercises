@@ -1,0 +1,19 @@
+/* style.css for exercise 3 */
+
+/* both button1 and button2 */
+.button1,
+.button2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* button 1 only */
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+/* button 2 only */
+.button2 {
+    background-color: yellow;
+}
